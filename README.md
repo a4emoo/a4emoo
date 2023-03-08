@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🍀 ZERO-WASTE 🍀 </h1>
-<h2 align="center"> ✨ SJWARIOR ✨ </h2>
+<h3 align="center"> 🍀 ZERO-WASTE 🍀 </h3>
+<h3 align="center"> ✨ SJWARIOR ✨ </h3>
 <h3 align="center"> ☄️ ARTIST ☄️ </h3>
-<h4 align="center"> 🌌 PROGRAMMER  🌌   </h4>
+<h3 align="center"> 🌌 PROGRAMMER  🌌   </h3>
